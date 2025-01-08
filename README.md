@@ -58,6 +58,7 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+<span>(icons in grayscale mean unused in the past year.)</span>
 
 ###
 
@@ -123,6 +124,7 @@
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       height="40"
       alt="angularjs logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -247,6 +249,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
       height="40"
       alt="swift logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -255,6 +258,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"
       height="40"
       alt="xcode logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -263,6 +267,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
       height="40"
       alt="apple logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -271,6 +276,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
       height="40"
       alt="kotlin logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -283,6 +289,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
       height="40"
       alt="androidstudio logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -291,6 +298,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
       height="40"
       alt="android logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -299,6 +307,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
       height="40"
       alt="dart logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -307,6 +316,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
       height="40"
       alt="flutter logo"
+      style="filter: grayscale(1);"
     />
   </a>
 </p>
@@ -371,6 +381,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
       height="40"
       alt="apachekafka logo"
+      style="filter: grayscale(1);"
     />
   </a>
   <img width="12" />
@@ -379,6 +390,7 @@
       src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
       height="40"
       alt="rabbitmq logo"
+      style="filter: grayscale(1);"
     />
   </a>
 </p>
@@ -482,6 +494,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
       height="40"
       alt="heroku logo"
+      style="filter: grayscale(1);"
     />
   </a>
 </p>
