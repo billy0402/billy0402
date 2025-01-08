@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">Front-end</p>
+<h4 align="left">Front-end</h4>
 
 ###
 
@@ -185,7 +185,7 @@
 
 ###
 
-<p align="left">Back-end</p>
+<h4 align="left">Back-end</h4>
 
 ###
 
@@ -237,7 +237,7 @@
 
 ###
 
-<p align="left">Mobile</p>
+<h4 align="left">Mobile</h4>
 
 ###
 
@@ -313,7 +313,7 @@
 
 ###
 
-<p align="left">SQL / ORM</p>
+<h4 align="left">SQL / ORM</h4>
 
 ###
 
@@ -361,7 +361,7 @@
 
 ###
 
-<p align="left">Task Queue</p>
+<h4 align="left">Task Queue</h4>
 
 ###
 
@@ -387,7 +387,7 @@
 
 ###
 
-<p align="left">Services</p>
+<h4 align="left">Services</h4>
 
 ###
 
@@ -416,7 +416,7 @@
 
 ###
 
-<p align="left">Others</p>
+<h4 align="left">Others</h4>
 
 ###
 
@@ -488,7 +488,7 @@
 
 ###
 
-<p align="left">UI / UX Software</p>
+<h4 align="left">UI / UX Software</h4>
 
 ###
 
