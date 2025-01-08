@@ -150,6 +150,14 @@
     />
   </a>
   <img width="12" />
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+      height="40"
+      alt="axios logo"
+    />
+  </a>
+  <img width="12" />
   <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"
@@ -163,6 +171,14 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
       height="40"
       alt="jest logo"
+    />
+  </a>
+  <img width="12" />
+  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-plain.svg"
+      height="40"
+      alt="storybook logo"
     />
   </a>
 </p>
@@ -187,6 +203,34 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
       height="40"
       alt="django logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://www.django-rest-framework.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain.svg"
+      height="40"
+      alt="django rest framework logo"
+    />
+  </a>
+  <img width="12" />
+  <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain.svg"
+      height="40"
+      alt="pytest logo"
+    />
+  </a>
+  <img width="12" />
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+      height="40"
+      alt="nestjs logo"
     />
   </a>
 </p>
@@ -269,7 +313,7 @@
 
 ###
 
-<p align="left">SQL</p>
+<p align="left">SQL / ORM</p>
 
 ###
 
@@ -295,6 +339,14 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       height="40"
       alt="mongodb logo"
+    />
+  </a>
+  <img width="12" />
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+      height="40"
+      alt="prisma logo"
     />
   </a>
   <img width="12" />
@@ -327,6 +379,37 @@
       src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
       height="40"
       alt="rabbitmq logo"
+    />
+  </a>
+</p>
+
+###
+
+###
+
+<p align="left">Services</p>
+
+###
+
+<p align="left">
+  <img width="12" />
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+      height="40"
+      alt="nginx logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://www.sonarsource.com/products/sonarqube/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg"
+      height="40"
+      alt="nginx logo"
     />
   </a>
 </p>
@@ -405,7 +488,7 @@
 
 ###
 
-<p align="left">UI/UX Software</p>
+<p align="left">UI / UX Software</p>
 
 ###
 
